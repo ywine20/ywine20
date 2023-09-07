@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Y wine</h1>
 <h3 align="center">A passionate Backend developer from Myanmar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ywine20&label=Profile%20views&color=0e75b6&style=flat" alt="ywine20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywine20" alt="ywine20" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+ About Me:
+✌️ 👻, Oh, in case I don’t see you, good afternoon, good evening, and good night.<br>☠️ I am currently working on.....<br>🤖 I am presently learning...<br>🍀 I am just a boy with a positive mindset..👻✌️<br>I am an ordinary happy young man. <br>There were no great thoughts in my head, I have had a few good things in my life. I'm not angry about it. Sometimes when people say I'm wrong, I learn. <br>Then I try to be good. And I don't want to be an outstanding person. I don't want to be the wrong person. I always want to be kind and help people, I want to be solid and pure-minded. <br>There are things I want to do while I'm alive, and I'll try to get them done, and I'll give a little help to those who don't know what life is. If I die, if my family remembers me, that is enough for me. Finally, I would like to thank those who put in such thoughts. <br>Life is short, and you have to choose how you live. That's it.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
