@@ -1,5 +1,5 @@
 <h1>Hi, You can call me Y_wine</h1>
-<h3 align="center">A passionate Backend developer from Myanmar</h3>
+<h3 align="center"> junior-Backend developer from Myanmar</h3>
 ☠️ About Me: <br>
 
  I am just a boy with a positive mindset..🍀<br>I am an ordinary happy young man. <br>There were no great thoughts in my head, I have had a few good things in my life. I'm not angry about it. Sometimes when people say I'm wrong, I learn. <br>Then I try to be good. And I don't want to be an outstanding person. I don't want to be the wrong person. I always want to be kind and help people, I want to be solid and pure-minded. <br>There are things I want to do while I'm alive, and I'll try to get them done, and I'll give a little help to those who don't know what life is. If I die, if my family remembers me, that is enough for me. Finally, I would like to thank those who put in such thoughts. <br>Life is short, and you have to choose how you live. That's it.<br>
