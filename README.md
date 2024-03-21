@@ -2,7 +2,10 @@
 <h3 align="center"> junior-Backend developer from Myanmar</h3>
 ☠️ About Me: <br>
 
-<p class="about-me">I am just a boy with a positive mindset..🍀<br>I am an ordinary happy young man. <br>There were no great thoughts in my head, I have had a few good things in my life. I'm not angry about it. Sometimes when people say I'm wrong, I learn. <br>Then I try to be good. And I don't want to be an outstanding person. I don't want to be the wrong person. I always want to be kind and help people, I want to be solid and pure-minded. <br>There are things I want to do while I'm alive, and I'll try to get them done, and I'll give a little help to those who don't know what life is. If I die, if my family remembers me, that is enough for me. Finally, I would like to thank those who put in such thoughts. <br>Life is short, and you have to choose how you live. That's it.</p>
+<p class="about-me">I am just a boy with a positive mindset..🍀<br>"I am a young man with a positive outlook on life. While my thoughts may not be grandiose, I cherish the simple joys and blessings that have come my way. Criticism is not met with anger but rather as an opportunity to learn and improve.
+
+My aspiration is not for greatness but for goodness. I strive to be a beacon of kindness and assistance, maintaining a steadfast and pure-hearted nature. There is a list of goals I aim to achieve in this lifetime, alongside a commitment to aiding those who are unfamiliar with life's complexities. If, in the end, my family remembers me fondly, I will consider my life well-lived. </br> 
+In conclusion, life is brief, and our choices define our existence. I choose to live with purpose and integrity, embracing each day with gratitude and a desire to make a positive impact."</p>
 
  <h2>Oh, in case I don’t see you, good afternoon, good evening, and good night.<br>☠️</h2>
 
