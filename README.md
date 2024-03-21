@@ -1,5 +1,5 @@
 <h1>Hi, You can call me Y_wine</h1>
-<h3 align="center">"I am a junior backend developer based in Myanma</h3>
+<h3 align="center">"I am a junior backend developer based in Myanmar</h3>
 ☠️ About Me: <br>
 
 <p class="about-me">🤍🍀<br>"I am a young man with a positive outlook on life. While my thoughts may not be grandiose, I cherish the simple joys and blessings that have come my way. Criticism is not met with anger but rather as an opportunity to learn and improve.
