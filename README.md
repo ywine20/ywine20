@@ -2,8 +2,7 @@
 <h3 align="center"> junior-Backend developer from Myanmar</h3>
 ☠️ About Me: <br>
 
-<p class="about-me">I am just a boy with a positive mindset..🍀<br>"I am a young man with a positive outlook on life. While my thoughts may not be grandiose, I cherish the simple joys and blessings that have come my way. Criticism is not met with anger but rather as an opportunity to learn and improve.
-
+<p class="about-me">🤍🍀<br>"I am a young man with a positive outlook on life. While my thoughts may not be grandiose, I cherish the simple joys and blessings that have come my way. Criticism is not met with anger but rather as an opportunity to learn and improve.
 My aspiration is not for greatness but for goodness. I strive to be a beacon of kindness and assistance, maintaining a steadfast and pure-hearted nature. There is a list of goals I aim to achieve in this lifetime, alongside a commitment to aiding those who are unfamiliar with life's complexities. If, in the end, my family remembers me fondly, I will consider my life well-lived. </br> 
 In conclusion, life is brief, and our choices define our existence. I choose to live with purpose and integrity, embracing each day with gratitude and a desire to make a positive impact."</p>
 
